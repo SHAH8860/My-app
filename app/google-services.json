@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "204825309542",
+    "firebase_url": "https://text-to-speech-5babe.firebaseio.com",
+    "project_id": "text-to-speech-5babe",
+    "storage_bucket": "text-to-speech-5babe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204825309542:android:70fd9ace3527e1529818a7",
+        "android_client_info": {
+          "package_name": "com.example.text_to_speech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204825309542-eb57c1bus7m251l0jtgbn59n5v9m0p6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp0eeqhyljNRkWCPJ273zeIMeWclutF_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204825309542-eb57c1bus7m251l0jtgbn59n5v9m0p6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

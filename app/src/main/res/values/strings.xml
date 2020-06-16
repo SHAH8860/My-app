@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text-To-Speech</string>
+    <string name="letsgo">LetsGo</string>
+    <string name="email">Email:</string>
+    <string name="text_to_speech">TEXT-TO-SPEECH</string>
+    <string name="username">UserName:</string>
+    <string name="password">Password:</string>
+    <string name="enter_the_text">Enter the text:</string>
+</resources>
